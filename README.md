@@ -91,7 +91,7 @@ Using Prophet, we forecasted sales for 60 days. The model reveals a stable initi
 4. Expand in high-revenue locations.
 5. Improve customer satisfaction in low-rated product lines.
 
-##Clone the GitHub Repository
+## Clone the GitHub Repository
 https://github.com/Irfankhan1q/sales-data.git
 
 ## Run the code in Sales Dashboard.ipynb and Sales Forecast.ipynb to get the result
