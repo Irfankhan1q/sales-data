@@ -96,5 +96,7 @@ https://github.com/Irfankhan1q/sales-data.git
 
 ## Run the code in Sales Dashboard.ipynb and Sales Forecast.ipynb to get the result
 
+If you find any issue while installing this, you can contact me at [irfankhanmd117@gmail.com](mailto:irfankhanmd117@gmail.com).
+
 
 
